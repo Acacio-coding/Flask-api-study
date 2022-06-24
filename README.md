@@ -20,6 +20,20 @@ Agora siga os seguintes passos adaptando os comandos para o seu sistema:
 cd <caminho da pasta gerada no clone>
 ```
 
+Ative o ambiente virtual
+
+Windows:
+
+```
+venv/Scripts/activate
+```
+
+Linux:
+
+```
+source venv/bin/activate
+```
+
 ```
 python -m venv <nome da sua venv>
 ```
